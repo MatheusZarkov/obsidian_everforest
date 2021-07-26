@@ -5,4 +5,4 @@ This is a modification of the [Everforest](https://github.com/sainnhe/everforest
 
 
 
-![](Darker Everforest.png)
+![](Darker_Everforest.png)
